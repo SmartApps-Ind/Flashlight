@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Torch</string>
+    <string name="front_not_available">#Front not available</string>
+</resources>
