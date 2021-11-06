@@ -12,4 +12,4 @@
 
 
 
-
+<code> Copyright (c) TheKnight & Smart App Ind. </code>
