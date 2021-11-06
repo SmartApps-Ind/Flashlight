@@ -11,5 +11,10 @@
 
 
 
+# Contribute
+<b>You can contribute to it by </b>
+- [x] Add Some new Features
+- [x] Make it attractive
+
 
 <code> Copyright (c) TheKnight & Smart App Ind. </code>
